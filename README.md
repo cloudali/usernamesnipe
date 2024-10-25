@@ -1,6 +1,6 @@
-# UsernameSnipe
+# USERSNIPE
 
-**UsernameSnipe** is a simple Discord bot I made for fun designed to scrape a gaming site for specific usernames and notify the user who requested it via DM as well as in the requested channel when they come online. This uses a headless browser to scrape and navigate the site. It doesn't work on all sites, only a select few gaming forums. 
+**usersnipe** is a simple Discord bot I made for fun designed to scrape a gaming site for specific usernames and notify the user who requested it via DM as well as in the requested channel when they come online. This uses a headless browser to scrape and navigate the site. It doesn't work on all sites, only a select few gaming forums. 
 
 ## Features
 The bot currently supports two main commands:
