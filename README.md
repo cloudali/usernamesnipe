@@ -15,7 +15,7 @@ The bot requires the following dependencies:
 
 ## Setup
 ### Requirements
-- **Node.js** - Recommended version 16 or higher
+- **Node.js** - Recommended version 14 or higher
 - **MongoDB URI** - A valid MongoDB URI for database connection
 - **Discord Bot Token** - Token for your bot application
 
